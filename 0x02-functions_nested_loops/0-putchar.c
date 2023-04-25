@@ -1,7 +1,7 @@
 #include <main.h>
 
 /**
- * main - Enter point 
+ * main - Enter point
  * Return: Always 0
  */
 
